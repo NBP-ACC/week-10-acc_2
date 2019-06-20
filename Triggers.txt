@@ -1,0 +1,23 @@
+Cooperation
+1. Draw target object
+2. Draw four choices
+15. Correct response 
+16. Incorrect response
+4. Correct - correct
+5. Incorrect - incorrect
+6. Correct - incorrect
+7. Incorrect - correct
+
+Competition
+8. Draw target object
+9. Draw four choices
+17. Correct response 
+18. Incorrect response
+13. Correct - correct
+14. Incorrect - incorrect
+11. Correct - incorrect
+12. Incorrect - correct
+
+Training
+1. Correct
+2. Incorrect
